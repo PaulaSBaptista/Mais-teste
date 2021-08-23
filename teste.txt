@@ -1,0 +1,10 @@
+As disciplinas do curso de Desenvolvimento de Sistemas são:
+Desenvolvimento de Aplicações Web;
+Lógica de Programação;
+Sistemas Operacionais;
+Inovação;
+Análise de Projetos de Sistemas;
+Banco de Dados;
+Informática;
+Inglês;
+Projeto Integrador.
